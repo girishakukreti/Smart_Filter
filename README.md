@@ -4,6 +4,9 @@
 
 The Smart Filter project is a web-based platform designed to enhance footwear selection by utilizing pressure distribution data collected from smart insoles. This platform allows users to find and choose shoes that best fit their unique pressure profiles and activity needs, thereby improving comfort and preventing injuries.
 
+![website](https://github.com/user-attachments/assets/358560ec-4fdd-47fd-8d4d-5cf60a85d87c)
+
+
 ## Demo
 For demo please refer to video in this repository-"smart_filter.mp4".
 
@@ -23,8 +26,11 @@ For demo please refer to video in this repository-"smart_filter.mp4".
 
 ### Prerequisites
 
-- A web server with PHP support (e.g., Apache)
+
+A web server![website]
+ with PHP support (e.g., Apache)
 - MySQL database server
 - Internet connection for accessing external resources and APIs
+
 
 
